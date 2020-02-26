@@ -1,0 +1,13 @@
+[package]
+
+# .TOML ---> Cargo's configuration format
+# Cargo helps organize projects
+
+name = "hello_cargo"
+version = "0.1.0"
+authors = ["Grace Chung <gcw.chung@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
