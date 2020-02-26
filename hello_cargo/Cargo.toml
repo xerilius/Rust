@@ -1,6 +1,8 @@
 [package]
 
-# .TOML ---> Cargo's configuration format
+# Cargo.toml ---> Cargo's configuration format
+# vs
+# Cargo.lock --> keeps track of exact version of dependencies in project | don't need to change manually
 # Cargo helps organize projects
 
 name = "hello_cargo"
